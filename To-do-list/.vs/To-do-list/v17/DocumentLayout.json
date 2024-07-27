@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\machm\\Documents\\Nauka\\To-do-list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B019BB-5BCB-41C6-A167-8527805B30C5}|To-do-list\\To-do-list.vcxproj|C:\\Users\\machm\\Documents\\Nauka\\To-do-list\\To-do-list\\To-do-list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9B019BB-5BCB-41C6-A167-8527805B30C5}|To-do-list\\To-do-list.vcxproj|solutionrelative:To-do-list\\To-do-list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "To-do-list.cpp",
+              "DocumentMoniker": "C:\\Users\\machm\\Documents\\Nauka\\To-do-list\\To-do-list\\To-do-list.cpp",
+              "RelativeDocumentMoniker": "To-do-list\\To-do-list.cpp",
+              "ToolTip": "C:\\Users\\machm\\Documents\\Nauka\\To-do-list\\To-do-list\\To-do-list.cpp",
+              "RelativeToolTip": "To-do-list\\To-do-list.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAHYBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-27T11:14:42.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

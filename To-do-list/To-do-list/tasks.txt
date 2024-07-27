@@ -1,0 +1,11 @@
+Work-WorkProj-16.09.2024-Work Project-Waiting Action
+Personal-Groceries-18.07.2024-Weekly shopping-Waiting Action
+Study-MathExam-25.07.2024-Prepare for Math Exam-Waiting Action
+Exercise-Gym-20.07.2024-Morning workout-Completed
+Shopping-Clothes-22.07.2024-Buy new clothes-Completed
+Social-FriendsDinner-27.07.2024-Dinner with friends-Waiting Action
+Hobbies-Painting-30.07.2024-Finish landscape painting-Waiting Action
+Chores-Cleaning-29.07.2024-House cleaning-Completed
+Appointments-Dentist-05.08.2024-Dentist appointment-Waiting Action
+Work-Report-10.08.2024-Complete quarterly report-Completed
+Personal-CallParents-15.08.2024-Call parents-Waiting Action
